@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Counter should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing Counter should render properly 2`] = `ShallowWrapper {}`;
